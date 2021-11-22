@@ -1,0 +1,10 @@
+#micanvas{                              
+    border: 100px solid #ccc;   /*Estilo para centrar tablero con estilos y posicion*/
+    position: absolute;
+    margin :auto;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+
